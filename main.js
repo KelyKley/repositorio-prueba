@@ -1,1 +1,1 @@
-document.write(Hola, bienvenidos a Git y Github);
+document.write("Hola, bienvenidos a Git y Github");
